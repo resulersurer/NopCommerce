@@ -1,0 +1,11 @@
+{
+  "Group": "resul ersurer",
+  "FriendlyName": "Resul Ersurer First Plugin",
+  "SystemName": "ResulPlugin.FirstPlugin",
+  "Version": "1.0",
+  "SupportedVersions": ["4.45", "4.50" ],
+  "Author": "ResulPlugin",
+  "DisplayOrder": 1,
+  "FileName": "ResulPlugin.FirstPlugin.dll",
+  "Description": "exaple and first plugin of resulersurer structure"
+}

@@ -1,0 +1,11 @@
+{
+  "Group": "resul ersurer",
+  "FriendlyName": "Resul Ersurer Swipejs Plugin",
+  "SystemName": "ResulPlugin.Widgets.SwiperSlider",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.45", "4.50" ],
+  "Author": "ResulPlugin",
+  "DisplayOrder": 1,
+  "FileName": "ResulPlugin.Widgets.SwiperSlider.dll",
+  "Description": "Swiper Js Destekli Slider"
+}
